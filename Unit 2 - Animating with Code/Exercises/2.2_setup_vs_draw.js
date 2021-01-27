@@ -14,7 +14,7 @@ function setup() {
   
   // This circle draws ONCE
   // shapeY is 50 at the start!
-  circle(50, shapeY, 50, 100);
+  circle(50, shapeY, 50);
 }
 
 function draw() {
