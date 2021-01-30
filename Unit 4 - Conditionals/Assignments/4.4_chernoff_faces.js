@@ -16,8 +16,8 @@ function setup() {
   createCanvas(400, 400);
   background(220);
   
-  // Edit the code below to create new features
-  // and details!
+  // Edit and add to the code below to create new 
+  // features and details!
   
   // Face
   ellipse(200, 200, 250, 350);
